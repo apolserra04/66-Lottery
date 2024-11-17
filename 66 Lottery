@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>66 Lottery</title>
+  <link href="https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1>66 Lottery</h1>
+    <nav>
+      <ul>
+        <li><a href="#register">How to Register</a></li>
+        <li><a href="#deposit">How to Deposit</a></li>
+        <li><a href="#play">How to Play</a></li>
+        <li><a href="#withdraw">How to Withdraw</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Welcome to 66 Lottery</h1>
+    <p>Your #1 platform for exciting games and big wins!</p>
+    <a href="https://www.66lottery28.com/#/pages/login/register?invitationCode=7585818220" target="_blank">
+      <button class="cta-button">JOIN NOW</button>
+    </a>
+  </section>
+
+  <!-- Content Section -->
+  <section id="register">
+    <h2>How to Register</h2>
+    <p>Sign up by clicking JOIN NOW and fill out your details. You’re just a step away from winning big!</p>
+  </section>
+
+  <section id="deposit">
+    <h2>How to Deposit</h2>
+    <p>Deposit funds quickly and securely to play your favorite games without hassle!</p>
+  </section>
+
+  <section id="play">
+    <h2>How to Play</h2>
+    <p>Select a game, place your bets, and enjoy thrilling action and rewards!</p>
+  </section>
+
+  <section id="withdraw">
+    <h2>How to Withdraw</h2>
+    <p>Cash out your winnings easily and securely through our withdrawal system.</p>
+  </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>66 Lottery</title>
+  <link href="https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1>66 Lottery</h1>
+    <nav>
+      <ul>
+        <li><a href="#register">How to Register</a></li>
+        <li><a href="#deposit">How to Deposit</a></li>
+        <li><a href="#play">How to Play</a></li>
+        <li><a href="#withdraw">How to Withdraw</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Welcome to 66 Lottery</h1>
+    <p>Your #1 platform for exciting games and big wins!</p>
+    <a href="https://www.66lottery28.com/#/pages/login/register?invitationCode=7585818220" target="_blank">
+      <button class="cta-button">JOIN NOW</button>
+    </a>
+  </section>
+
+  <!-- Content Section -->
+  <section id="register">
+    <h2>How to Register</h2>
+    <p>Sign up by clicking JOIN NOW and fill out your details. You’re just a step away from winning big!</p>
+  </section>
+
+  <section id="deposit">
+    <h2>How to Deposit</h2>
+    <p>Deposit funds quickly and securely to play your favorite games without hassle!</p>
+  </section>
+
+  <section id="play">
+    <h2>How to Play</h2>
+    <p>Select a game, place your bets, and enjoy thrilling action and rewards!</p>
+  </section>
+
+  <section id="withdraw">
+    <h2>How to Withdraw</h2>
+    <p>Cash out your winnings easily and securely through our withdrawal system.</p>
+  </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>66 Lottery</title>
+  <link href="https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1>66 Lottery</h1>
+    <nav>
+      <ul>
+        <li><a href="#register">How to Register</a></li>
+        <li><a href="#deposit">How to Deposit</a></li>
+        <li><a href="#play">How to Play</a></li>
+        <li><a href="#withdraw">How to Withdraw</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Welcome to 66 Lottery</h1>
+    <p>Your #1 platform for exciting games and big wins!</p>
+    <a href="https://www.66lottery28.com/#/pages/login/register?invitationCode=7585818220" target="_blank">
+      <button class="cta-button">JOIN NOW</button>
+    </a>
+  </section>
+
+  <!-- Content Section -->
+  <section id="register">
+    <h2>How to Register</h2>
+    <p>Sign up by clicking JOIN NOW and fill out your details. You’re just a step away from winning big!</p>
+  </section>
+
+  <section id="deposit">
+    <h2>How to Deposit</h2>
+    <p>Deposit funds quickly and securely to play your favorite games without hassle!</p>
+  </section>
+
+  <section id="play">
+    <h2>How to Play</h2>
+    <p>Select a game, place your bets, and enjoy thrilling action and rewards!</p>
+  </section>
+
+  <section id="withdraw">
+    <h2>How to Withdraw</h2>
+    <p>Cash out your winnings easily and securely through our withdrawal system.</p>
+  </section>
+</body>
+</html>
